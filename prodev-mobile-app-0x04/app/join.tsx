@@ -80,7 +80,7 @@ export default function Index() {
         </View>
 
         <View style={styles.subTextGroup}>
-          <Text style={styles.subText}>Don't have an account?</Text>
+          <Text style={styles.subText}>Already have an account?</Text>
           <Text style={styles.subTextJoin}>Sign in</Text>
         </View>
       </SafeAreaView>
